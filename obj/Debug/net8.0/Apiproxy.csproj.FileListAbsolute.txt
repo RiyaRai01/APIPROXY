@@ -1,0 +1,35 @@
+C:\C#\Apiproxy\bin\Debug\net8.0\Apiproxy.exe
+C:\C#\Apiproxy\bin\Debug\net8.0\Apiproxy.deps.json
+C:\C#\Apiproxy\bin\Debug\net8.0\Apiproxy.runtimeconfig.json
+C:\C#\Apiproxy\bin\Debug\net8.0\Apiproxy.dll
+C:\C#\Apiproxy\bin\Debug\net8.0\Apiproxy.pdb
+C:\C#\Apiproxy\obj\Debug\net8.0\Apiproxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Apiproxy\obj\Debug\net8.0\Apiproxy.AssemblyInfoInputs.cache
+C:\C#\Apiproxy\obj\Debug\net8.0\Apiproxy.AssemblyInfo.cs
+C:\C#\Apiproxy\obj\Debug\net8.0\Apiproxy.csproj.CoreCompileInputs.cache
+C:\C#\Apiproxy\obj\Debug\net8.0\Apiproxy.dll
+C:\C#\Apiproxy\obj\Debug\net8.0\refint\Apiproxy.dll
+C:\C#\Apiproxy\obj\Debug\net8.0\Apiproxy.pdb
+C:\C#\Apiproxy\obj\Debug\net8.0\Apiproxy.genruntimeconfig.cache
+C:\C#\Apiproxy\obj\Debug\net8.0\ref\Apiproxy.dll
+C:\C#\Apiproxy\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\C#\Apiproxy\obj\Debug\net8.0\Apiproxy.csproj.AssemblyReference.cache
+C:\C#\Apiproxy\obj\Debug\net8.0\Apiproxy.csproj.CopyComplete
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\bin\Debug\net8.0\Apiproxy.exe
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\bin\Debug\net8.0\Apiproxy.deps.json
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\bin\Debug\net8.0\Apiproxy.runtimeconfig.json
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\bin\Debug\net8.0\Apiproxy.dll
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\bin\Debug\net8.0\Apiproxy.pdb
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\obj\Debug\net8.0\Apiproxy.csproj.AssemblyReference.cache
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\obj\Debug\net8.0\Apiproxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\obj\Debug\net8.0\Apiproxy.AssemblyInfoInputs.cache
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\obj\Debug\net8.0\Apiproxy.AssemblyInfo.cs
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\obj\Debug\net8.0\Apiproxy.csproj.CoreCompileInputs.cache
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\obj\Debug\net8.0\Apiproxy.csproj.Up2Date
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\obj\Debug\net8.0\Apiproxy.dll
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\obj\Debug\net8.0\refint\Apiproxy.dll
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\obj\Debug\net8.0\Apiproxy.pdb
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\obj\Debug\net8.0\Apiproxy.genruntimeconfig.cache
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\obj\Debug\net8.0\ref\Apiproxy.dll
+C:\Users\RRai\Riya's Workspace\Apiproxy\Apiproxy\bin\Debug\net8.0\CsvHelper.dll
