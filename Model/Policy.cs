@@ -1,11 +1,13 @@
 using System.Xml.Serialization;
 using Apigeemig;
+using Proxy.Endpoint;
 
 namespace Proxy.Policies
-{
-    
+{ 
+   
     public class Policy
     {
+
         public string Name { get; set; }
         public bool continueOnError { get; set; }
         public bool Enabled { get; set; }
@@ -13,7 +15,8 @@ namespace Proxy.Policies
         public List<Property> properties { get; set; }
 
     }
-
+     
+    [XmlRoot(ElementName = "ServiceCallout")]
     public class ServiceCallout : Policy
     {
         public Request Request { get; set; }
@@ -22,6 +25,8 @@ namespace Proxy.Policies
 
     }
 
+    
+    [XmlRoot(ElementName = "SpikeArrest")]
     public class SpikeArrest : Policy
     {
         public Identifier Identifier { get; set; } 
@@ -29,14 +34,19 @@ namespace Proxy.Policies
     	public string Rate { get; set; } 
     }
 
+    
+    [XmlRoot(ElementName = "VerifyAPIKey")]
     public class VerifyAPIKey : Policy
     {
         public APIKey APIKey { get; set; } 
 
     }
 
+    [XmlRoot(ElementName = "Request")] 
     public class Request
     {
+        [XmlElement(ElementName = "Step")]
+	    public List<Step> Steps { get; set; }
         public bool IgnoreUnresolvedVariables { get; set; }
         public bool ClearPayload { get; set; }
         public string Variable { get; set; }
@@ -51,8 +61,11 @@ namespace Proxy.Policies
     }
 
     public class RouteRule 
-    { 
-    	public TargetEndpoint TargetEndpoint { get; set; }  
+    {
+        
+    	public TargetEndpointName TargetEndpoint { get; set; }  
+
+        [XmlText]
 	    public string Name { get; set; } 
     }
 

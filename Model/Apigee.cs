@@ -4,6 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
+using Proxy.Endpoint;
 using Proxy.Policies;
 using Proxy.Target;
 
@@ -33,11 +34,11 @@ namespace Apigeemig
 
         [XmlArray(ElementName = "ProxyEndpoints")]
 	    [XmlArrayItem(ElementName="ProxyEndpoint")] 
-        public List<ProxyEndpoint> ProxyEndpoints { get; set; } 
+        public List<ProxyEndpointName> ProxyEndpoints { get; set; } 
 
         [XmlArray(ElementName = "TargetEndpoints")]
 	    [XmlArrayItem(ElementName="TargetEndpoint")] 
-        public List<TargetEndpoint> TargetEndpoints { get; set; }
+        public List<TargetEndpointName> TargetEndpoints { get; set; }
 
         [XmlAttribute(AttributeName="revision")] 
         public int Revision {get; set;} 
@@ -96,15 +97,14 @@ namespace Apigeemig
         }
 
     }
-    
-    public class ProxyEndpoint
+    public class ProxyEndpointName
 	{ 
         [XmlText]
 		public string Name { get; set; } 
 	}
 
     
-    public class TargetEndpoint
+    public class TargetEndpointName
 	{
         [XmlText]
 		public string Name { get; set; }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Apiproxy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a812fa3cbbd932a91f66123d699f3caf173783bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40c1c2ad9f875b9c211d3adc85ec77e9807fd961")]
 [assembly: System.Reflection.AssemblyProductAttribute("Apiproxy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Apiproxy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

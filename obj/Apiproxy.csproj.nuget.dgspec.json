@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RRai\\Riya's Workspace\\Apiproxy\\Apiproxy\\Apiproxy.csproj": {}
+    "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\APIPROXY\\Apiproxy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RRai\\Riya's Workspace\\Apiproxy\\Apiproxy\\Apiproxy.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\APIPROXY\\Apiproxy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RRai\\Riya's Workspace\\Apiproxy\\Apiproxy\\Apiproxy.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\APIPROXY\\Apiproxy.csproj",
         "projectName": "Apiproxy",
-        "projectPath": "C:\\Users\\RRai\\Riya's Workspace\\Apiproxy\\Apiproxy\\Apiproxy.csproj",
-        "packagesPath": "C:\\Users\\RRai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RRai\\Riya's Workspace\\Apiproxy\\Apiproxy\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\APIPROXY\\Apiproxy.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documents\\GitHub\\APIPROXY\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RRai\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -68,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
